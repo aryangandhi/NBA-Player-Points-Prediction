@@ -18,6 +18,12 @@ This repository contains the code and datasets used in my project of predicting 
 - `get_data.ipynb`: Jupyter Notebook containing the webscraping process
 - `prediction_model.ipynb`: Jupyter Notebook containing the data preprocessing, feature engineering process, model training, selection and hyperparameter tuning process, the final model evaluation on the test set
 
+## Data Exploration
+
+<img width="374" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/b5811338-0f86-4090-8df6-7f41e1975984">
+
+<img width="536" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/64a52c15-45ff-428b-899c-02668f1fbded">
+
 ## Results
 
 Our final selected model, a linear regression model with a lasso penalty, achieved a Root Mean Square Error (RMSE) of 7.3299 on the test set. RMSE is a popular metric that measures the average magnitude of the error, essentially telling us how far, on average, our predictions are from the actual values. 
