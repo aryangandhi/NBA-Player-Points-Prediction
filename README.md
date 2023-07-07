@@ -20,9 +20,15 @@ This repository contains the code and datasets used in my project of predicting 
 
 ## Data Exploration
 
+### Histogram of Points Scored
+
 <img width="374" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/b5811338-0f86-4090-8df6-7f41e1975984">
 
+This image shows us the distribution of points Stephen Curry has scored in a regular season game throughout the dataset (2015-2023).
+
 <img width="536" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/64a52c15-45ff-428b-899c-02668f1fbded">
+
+This image shows us the spread of points Stephen Curry has scored against each opposing team throughout the dataset (2015-2023).
 
 ## Hyperparameter Tuning
 
@@ -57,7 +63,7 @@ This indicates that an `alpha` of approximately 0.222 provided the optimal balan
 
 ### Importance of Cross-Validation
 
-While our approach was effective in this context, a more robust and widely-used method for hyperparameter tuning is cross-validation, typically k-fold cross-validation. This process involves dividing the dataset into 'k' subsets and training the model 'k' times, each time using a different subset as the validation set and the remaining data as the training set. The performance measure is then averaged over the 'k' trials to provide a more robust measure of model quality.
+While our approach was effective in this context, due to the nature of the dataset being timeseries data, a more robust and widely-used method for hyperparameter tuning is cross-validation, typically k-fold cross-validation. This process involves dividing the dataset into 'k' subsets and training the model 'k' times, each time using a different subset as the validation set and the remaining data as the training set. The performance measure is then averaged over the 'k' trials to provide a more robust measure of model quality.
 
 Cross-validation helps ensure that our model's performance is not overly dependent on the specific arrangement of the training and validation sets. Thus, it provides a more reliable estimate of how the model is likely to perform on unseen data.
 
