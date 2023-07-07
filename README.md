@@ -15,12 +15,8 @@ This repository contains the code and datasets used in my project of predicting 
 
 ## File Descriptions
 
-- `Data_Collection.ipynb`: Jupyter Notebook containing the webscraping process
-- `Preprocessing_and_Feature_Engineering.ipynb`: Jupyter Notebook containing the data preprocessing and feature engineering process
-- `Model_Training_and_Selection.ipynb`: Jupyter Notebook containing the model training, selection and hyperparameter tuning process
-- `Model_Evaluation.ipynb`: Jupyter Notebook containing the final model evaluation on the test set
-- `original_dataframe.csv`: CSV file containing the original dataframe
-- `final_dataframe.csv`: CSV file containing the final dataframe after preprocessing and feature engineering
+- `get_data.ipynb`: Jupyter Notebook containing the webscraping process
+- `prediction_model.ipynb`: Jupyter Notebook containing the data preprocessing, feature engineering process, model training, selection and hyperparameter tuning process, the final model evaluation on the test set
 
 ## Results
 
@@ -38,7 +34,7 @@ I also discovered that the linear regression model with a lasso penalty outperfo
 ## How to Use
 
 1. Clone this repository.
-2. Install required Python packages: BeautifulSoup, PlayWright, pandas, numpy, sklearn, xgboost.
+2. Install required Python packages: BeautifulSoup, PlayWright, pandas, numpy, matplotlib, sklearn, xgboost.
 3. Run Jupyter Notebooks in the order specified in the project overview.
 
 ## Future Improvements
