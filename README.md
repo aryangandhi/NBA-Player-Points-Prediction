@@ -24,6 +24,46 @@ This repository contains the code and datasets used in my project of predicting 
 
 <img width="536" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/64a52c15-45ff-428b-899c-02668f1fbded">
 
+## Hyperparameter Tuning
+
+Hyperparameter tuning is a crucial step in the machine learning pipeline. Hyperparameters are parameters that aren't learned from the data, but are set prior to the training process. They play a significant role in controlling the learning process and hence, affect the performance of a model. 
+
+In the context of our Lasso Penalized Regression model, the primary hyperparameter we needed to optimize was the regularization parameter, often referred to as `alpha`.
+
+### Tuning Alpha for the Linear Regression with Lasso Penalty (L1 Regression) Model
+
+#### Regularization and the Importance of Alpha
+
+Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. In the case of Lasso Regression, this penalty term leads to the reduction of the coefficients of less important features to zero, effectively performing feature selection.
+
+The strength of the regularization is controlled by the hyperparameter `alpha`. A larger `alpha` increases the amount of regularization and model simplicity, while a smaller `alpha` makes the model more complex by reducing the amount of regularization. 
+
+Hence, finding the right balance is key, which is what hyperparameter tuning aims to do.
+
+#### Hyperparameter Tuning Process
+
+To tune the `alpha` parameter, we utilized a simple approach of trying out a range of `alpha` values and selecting the one that resulted in the lowest Root Mean Squared Error (RMSE) on the validation set. The range of `alpha` values was defined using the `numpy` `linspace` function, creating 100 values between 0 and 0.5.
+
+For each `alpha`, we trained a Lasso Regression model, made predictions on the training and validation sets, and calculated the RMSE for each set. These errors were stored and subsequently plotted against the corresponding `alpha` values.
+
+#### Results
+
+The output of our hyperparameter tuning process was as follows:
+
+- Optimal Alpha Value: 0.22222222222222224
+- Lowest Validation RMSE: 7.390895958059687
+
+This indicates that an `alpha` of approximately 0.222 provided the optimal balance between bias and variance for our model, as evidenced by the lowest validation RMSE. 
+
+### Importance of Cross-Validation
+
+While our approach was effective in this context, a more robust and widely-used method for hyperparameter tuning is cross-validation, typically k-fold cross-validation. This process involves dividing the dataset into 'k' subsets and training the model 'k' times, each time using a different subset as the validation set and the remaining data as the training set. The performance measure is then averaged over the 'k' trials to provide a more robust measure of model quality.
+
+Cross-validation helps ensure that our model's performance is not overly dependent on the specific arrangement of the training and validation sets. Thus, it provides a more reliable estimate of how the model is likely to perform on unseen data.
+
+In the future, it could be beneficial to employ a cross-validated approach, such as using `GridSearchCV` or `RandomizedSearchCV` from Scikit-Learn, to further enhance the robustness of our hyperparameter tuning process.
+
+
 ## Results
 
 Our final selected model, a linear regression model with a lasso penalty, achieved a Root Mean Square Error (RMSE) of 7.3299 on the test set. RMSE is a popular metric that measures the average magnitude of the error, essentially telling us how far, on average, our predictions are from the actual values. 
