@@ -1,0 +1,493 @@
+
+   
+
+
+   
+      
+<div class="callout light new_stathead_player_highlight">
+	<div class="callout_logos">
+		<a href="https://stathead.com/sport//?&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002" class="sh-cta-button" target="_blank" rel="noopener">
+			<img src="https://cdn.ssref.net/req/202004233/logos/stathead-.svg" onerror="this.src='https://cdn.ssref.net/req/202004233/logos/-logo.png'; this.onerror = null;" alt="Stathead Logo">
+		</a>
+    <div>POWERED BY</div>
+    <a href="https://stathead.com/sport//?&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002" class="sh-cta-button" target="_blank" rel="noopener">
+			<img src="https://cdn.ssref.net/req/202004233/logos/-logo.svg" onerror="this.src='https://cdn.ssref.net/req/202004233/logos/-logo.png'; this.onerror = null;" alt=".com Logo">
+		</a>
+  </div>
+	<div class="new_stathead_player_highlight_content">
+        
+            <div>Feel like you're looking for a needle in a haystack?</div>
+        
+        
+            <div class="cta">Unleash the power of our game logs database by becoming a Stathead. Subscribers gain access to <a href="https://stathead.com/sport/2023_01_bnnr_player_gamelog_stathead/basketball/player-game-finder.cgi?&amp;utm_medium=sr_xsite&amp;utm_source=bbr&amp;utm_campaign=2023_01_bnnr_player_gamelog_stathead&amp;utm_content=bnnr_fancy&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Player</a> and <a href="https://stathead.com/sport/2023_01_bnnr_player_gamelog_stathead/basketball/tgl_finder.cgi?&amp;utm_medium=sr_xsite&amp;utm_source=bbr&amp;utm_campaign=2023_01_bnnr_player_gamelog_stathead&amp;utm_content=bnnr_fancy&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Team</a> Game Finders, which allow users to easily run customizable searches through every box score in NBA and ABA history.</div>
+        
+        <div>
+          
+		        <a href="https://stathead.com/sport/2023_01_bnnr_player_gamelog_stathead/?&amp;utm_medium=sr_xsite&amp;utm_source=bbr&amp;utm_campaign=2023_01_bnnr_player_gamelog_stathead&amp;utm_content=bnnr_fancy&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002" class="button " target="_blank" rel="noopener">Become&nbsp;a&nbsp;Stathead</a>
+          
+	      </div>
+	</div>
+
+  
+</div>
+
+   
+
+
+          
+      
+      
+      
+      
+
+<!-- fs_general_header -->
+<div class="adblock">
+
+
+<!-- div#fs_fs_general_header  -->
+<style>
+    #srcom .adblock.stn,
+    #content .adblock.stn { height: auto; width: 728px; max-width:100%; aspect-ratio: 1.677419;  margin: auto; }
+.fb #content .adblock.stn { max-width: 400px; }
+</style>
+<script>
+function apiFunction(ApiHandshake)  {
+    const playerDiv = document.querySelector('[data-stn-api="apiFunction"]');
+    const api = ApiHandshake(playerDiv);
+    new IntersectionObserver ( moes => { const bcr = moes.pop().boundingClientRect; api.float = bcr.y <= 0; },
+                                       { threshold: [0.9] }).observe(document.querySelector('[data-stn-api="apiFunction"]'));
+ }
+</script>
+<div class="adblock stn">
+  <div class="k-azXQiRnA" data-type="float" data-stn-api="apiFunction" data-cid="13630" data-offsetx="0" data-offsety="0" data-floatwidth="400" data-floatposition="bottom-right" data-stn-player="azXQiRnA" id="BsAld4jW4mgURjtz"><stn-player style="" class="HzAMGQK4QmNAlbKr"><link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></stn-player></div>
+  <script type="text/javascript" src="//embed.sendtonews.com/player3/embedcode.js?fk=azXQiRnA&amp;cid=13630&amp;offsetx=0&amp;offsety=0&amp;floatwidth=400&amp;floatposition=bottom-right" data-type="s2nScript" data-stn-embed="PEI"></script>
+</div>
+<!-- /div.#fs_fs_general_header -->
+
+
+</div>
+
+
+      
+         
+            <p>
+  <strong>
+    <a href="/players/c/curryst01/gamelog-advanced/2020/">»&nbsp;Switch to Advanced Game Log</a>
+  </strong>
+</p>
+
+            
+            
+            
+         
+      
+         
+            <div class="grid_wrapper" id="all_game_log_summary">
+
+<div class="section_heading assoc_game_log_summary" id="game_log_summary_sh">
+  <span class="section_anchor" id="game_log_summary_link" data-label="Game Log Summary"></span><h2>Game Log Summary</h2>    <div class="section_heading_text">
+      <ul>
+      </ul>
+    </div>
+    		
+</div>	<div data-no-overall-control="" class="data_grid " id="div_game_log_summary">
+		
+		<div class="data_grid_group solo">
+		
+		<div id="game_log_summary_1" class="data_grid_box">
+	
+	<table>
+		<caption>MP</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td>20-29</td><td>3</td></tr>
+<tr><td>30-39</td><td>2</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_2" class="data_grid_box">
+	
+	<table>
+		<caption>PTS</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td> 0-9</td><td>1</td></tr>
+<tr><td>20-29</td><td>4</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_3" class="data_grid_box">
+	
+	<table>
+		<caption>TRB</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td> 0-4</td><td>2</td></tr>
+<tr><td> 5-9</td><td>3</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_4" class="data_grid_box">
+	
+	<table>
+		<caption>AST</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td> 0-4</td><td>1</td></tr>
+<tr><td> 5-9</td><td>3</td></tr>
+<tr><td>10-14</td><td>1</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_5" class="data_grid_box">
+	
+	<table>
+		<caption>STL</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td>0</td><td>2</td></tr>
+<tr><td>1-2</td><td>2</td></tr>
+<tr><td>3-4</td><td>1</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_6" class="data_grid_box">
+	
+	<table>
+		<caption>BLK</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td>0</td><td>4</td></tr>
+<tr><td>1-2</td><td>1</td></tr>
+
+			
+		
+			</tbody></table>	
+</div><div id="game_log_summary_7" class="data_grid_box">
+	
+	<table>
+		<caption>PF</caption>				<tbody><tr class="">
+						<td class="left"></td></tr><tr><td>0</td><td>1</td></tr>
+<tr><td>1-2</td><td>2</td></tr>
+<tr><td>3-4</td><td>1</td></tr>
+<tr><td>5</td><td>1</td></tr>
+
+			
+		
+			</tbody></table>	
+</div>
+
+		</div>
+		</div>
+</div>
+<div>5 Starts, 1 Win, 4 Losses, 1 Double-Double</div>
+<div>
+
+<div id="all_pgl_basic" class="table_wrapper">
+
+<div class="section_heading assoc_pgl_basic has_controls" id="pgl_basic_sh">
+  <span class="section_anchor" id="pgl_basic_link" data-label="2019-20 Regular Season"></span><h2>2019-20 Regular Season</h2>    <div class="section_heading_text">
+      <ul>
+      <li class="hasmore"><span>Share &amp; Export</span><div><ul><li><button class="tooltip" tip="Use a customizable report creator that can<br>output HTML, CSV, or a shareable link." type="button" id="share_on_pgl_basic">Modify, Export &amp; Share Table</button></li><li><button class="tooltip" tip="Convert the table below to comma-separated values<br>suitable for use with Excel" type="button">Get as Excel Workbook</button><a id="dlink" style="display: none;"></a></li><li><button class="tooltip" tip="Get a link directly to this table on this page" type="button">Get table as CSV (for Excel)</button></li><li><button class="tooltip" tip="" type="button" id="a_pgl_basic" name="pgl_basic" href="#pgl_basic">Get Link to Table</button></li><li><button class="tooltip" tip="" type="button">About Sharing Tools</button></li><li><button class="tooltip" tip="" type="button"><a href="https://www.youtube.com/watch?v=MWapXbaWs_U&amp;feature=youtu.be" target="_blank">Video: SR Sharing Tools &amp; How-to</a></button></li><li><button class="tooltip" tip="" type="button"><a href="https://www.youtube.com/watch?v=JkDLV0roT14&amp;feature=youtu.be" target="_blank">Video: Stats Table Tips &amp; Tricks</a></button></li><li><button class="tooltip" tip="" type="button"><a href="https://www.sports-reference.com/data_use.html" target="_blank">Data Usage Terms</a></button></li></ul></div></li><li><button class="tooltip" tip="Show a glossary for each term in the table below<br>or hold your mouse over the header" type="button">Glossary</button></li></ul>
+    </div>
+    		
+</div>
+<div class="table_container is_setup" id="div_pgl_basic">
+    
+    <table class="row_summable sortable stats_table now_sortable" id="pgl_basic" data-cols-to-freeze=",3">
+    <caption>2019-20 Regular Season Table</caption>
+    
+
+   <colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="Rk" data-stat="ranker" scope="col" class="ranker poptip sort_default_asc show_partial_when_sorting center" data-tip="Rank">Rk</th>
+         <th aria-label="G" data-stat="game_season" scope="col" class=" poptip center" data-tip="Season Game">G</th>
+         <th aria-label="Date" data-stat="date_game" scope="col" class=" poptip sort_default_asc center">Date</th>
+         <th aria-label="Age" data-stat="age" scope="col" class=" poptip sort_default_asc center" data-tip="Player's age on February 1 of the season">Age</th>
+         <th aria-label="Tm" data-stat="team_id" scope="col" class=" poptip sort_default_asc center" data-tip="Team">Tm</th>
+         <th aria-label="&nbsp;" data-stat="game_location" scope="col" class=" poptip center">&nbsp;</th>
+         <th aria-label="Opp" data-stat="opp_id" scope="col" class=" poptip sort_default_asc center" data-tip="Opponent">Opp</th>
+         <th aria-label="&nbsp;" data-stat="game_result" scope="col" class=" poptip center">&nbsp;</th>
+         <th aria-label="Games Started" data-stat="gs" scope="col" class=" poptip center" data-tip="Games Started">GS</th>
+         <th aria-label="Minutes Played" data-stat="mp" scope="col" class=" poptip center" data-tip="Minutes Played">MP</th>
+         <th aria-label="Field Goals" data-stat="fg" scope="col" class=" poptip center" data-tip="Field Goals">FG</th>
+         <th aria-label="FGA" data-stat="fga" scope="col" class=" poptip center" data-tip="Field Goal Attempts">FGA</th>
+         <th aria-label="Field Goal Percentage" data-stat="fg_pct" scope="col" class=" poptip center" data-tip="Field Goal Percentage">FG%</th>
+         <th aria-label="3-Point Field Goals" data-stat="fg3" scope="col" class=" poptip center" data-tip="3-Point Field Goals">3P</th>
+         <th aria-label="3-Point Field Goal Attempts" data-stat="fg3a" scope="col" class=" poptip center" data-tip="3-Point Field Goal Attempts">3PA</th>
+         <th aria-label="3-Point Field Goal Percentage" data-stat="fg3_pct" scope="col" class=" poptip center" data-tip="3-Point Field Goal Percentage">3P%</th>
+         <th aria-label="Free Throws" data-stat="ft" scope="col" class=" poptip center" data-tip="Free Throws">FT</th>
+         <th aria-label="Free Throw Attempts" data-stat="fta" scope="col" class=" poptip center" data-tip="Free Throw Attempts">FTA</th>
+         <th aria-label="Free Throw Percentage" data-stat="ft_pct" scope="col" class=" poptip center" data-tip="Free Throw Percentage">FT%</th>
+         <th aria-label="Offensive Rebounds" data-stat="orb" scope="col" class=" poptip center" data-tip="Offensive Rebounds">ORB</th>
+         <th aria-label="Defensive Rebounds" data-stat="drb" scope="col" class=" poptip center" data-tip="Defensive Rebounds">DRB</th>
+         <th aria-label="Total Rebounds" data-stat="trb" scope="col" class=" poptip center" data-tip="Total Rebounds">TRB</th>
+         <th aria-label="Assists" data-stat="ast" scope="col" class=" poptip center" data-tip="Assists">AST</th>
+         <th aria-label="Steals" data-stat="stl" scope="col" class=" poptip center" data-tip="Steals">STL</th>
+         <th aria-label="Blocks" data-stat="blk" scope="col" class=" poptip center" data-tip="Blocks">BLK</th>
+         <th aria-label="Turnovers" data-stat="tov" scope="col" class=" poptip center" data-tip="Turnovers">TOV</th>
+         <th aria-label="Personal Fouls" data-stat="pf" scope="col" class=" poptip center" data-tip="Personal Fouls">PF</th>
+         <th aria-label="Points" data-stat="pts" scope="col" class=" poptip center" data-tip="Points">PTS</th>
+         <th aria-label="GmSc" data-stat="game_score" scope="col" class=" poptip center" data-tip="Game Score">GmSc</th>
+         <th aria-label="Plus/Minus" data-stat="plus_minus" scope="col" class=" poptip right" data-tip="Plus/Minus">+/-</th>
+      </tr>
+      </thead>
+<tbody><tr id="pgl_basic.695" data-row="0"><th scope="row" class="right " data-stat="ranker" csk="1">1</th><td class="right endpoint tooltip" data-endpoint="/players/pgl_cum_stats.cgi?player=curryst01&amp;year=2020&amp;date_game=2019-10-24&amp;is_playoff_game=N" data-stat="game_season"><strong>1</strong></td><td class="left " data-stat="date_game"><a href="/boxscores/201910240GSW.html">2019-10-24</a></td><td class="right " data-stat="age">31-224</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/LAC/2020.html">LAC</a></td><td class="center " data-stat="game_result" csk="-19">L (-19)</td><td class="right " data-stat="gs">1</td><td class="right " data-stat="mp" csk="1788">29:48</td><td class="right " data-stat="fg">8</td><td class="right " data-stat="fga">20</td><td class="right " data-stat="fg_pct">.400</td><td class="right " data-stat="fg3">2</td><td class="right " data-stat="fg3a">11</td><td class="right " data-stat="fg3_pct">.182</td><td class="right " data-stat="ft">5</td><td class="right " data-stat="fta">5</td><td class="right " data-stat="ft_pct">1.000</td><td class="right " data-stat="orb">1</td><td class="right " data-stat="drb">3</td><td class="right " data-stat="trb">4</td><td class="right " data-stat="ast">4</td><td class="right " data-stat="stl">1</td><td class="right iz" data-stat="blk">0</td><td class="right " data-stat="tov">8</td><td class="right " data-stat="pf">3</td><td class="right " data-stat="pts">23</td><td class="right " data-stat="game_score">8.4</td><td class="right " data-stat="plus_minus">-19</td></tr>
+<tr id="pgl_basic.696" data-row="1"><th scope="row" class="right " data-stat="ranker" csk="2">2</th><td class="right endpoint tooltip" data-endpoint="/players/pgl_cum_stats.cgi?player=curryst01&amp;year=2020&amp;date_game=2019-10-27&amp;is_playoff_game=N" data-stat="game_season"><strong>2</strong></td><td class="left " data-stat="date_game"><a href="/boxscores/201910270OKC.html">2019-10-27</a></td><td class="right " data-stat="age">31-227</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/OKC/2020.html">OKC</a></td><td class="center " data-stat="game_result" csk="-28">L (-28)</td><td class="right " data-stat="gs">1</td><td class="right " data-stat="mp" csk="1808">30:08</td><td class="right " data-stat="fg">7</td><td class="right " data-stat="fga">18</td><td class="right " data-stat="fg_pct">.389</td><td class="right " data-stat="fg3">2</td><td class="right " data-stat="fg3a">9</td><td class="right " data-stat="fg3_pct">.222</td><td class="right " data-stat="ft">7</td><td class="right " data-stat="fta">7</td><td class="right " data-stat="ft_pct">1.000</td><td class="right " data-stat="orb">2</td><td class="right " data-stat="drb">6</td><td class="right " data-stat="trb">8</td><td class="right " data-stat="ast">5</td><td class="right iz" data-stat="stl">0</td><td class="right iz" data-stat="blk">0</td><td class="right " data-stat="tov">2</td><td class="right iz" data-stat="pf">0</td><td class="right " data-stat="pts">23</td><td class="right " data-stat="game_score">17.9</td><td class="right " data-stat="plus_minus">-30</td></tr>
+<tr id="pgl_basic.697" data-row="2"><th scope="row" class="right " data-stat="ranker" csk="3">3</th><td class="right endpoint tooltip" data-endpoint="/players/pgl_cum_stats.cgi?player=curryst01&amp;year=2020&amp;date_game=2019-10-28&amp;is_playoff_game=N" data-stat="game_season"><strong>3</strong></td><td class="left " data-stat="date_game"><a href="/boxscores/201910280NOP.html">2019-10-28</a></td><td class="right " data-stat="age">31-228</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/NOP/2020.html">NOP</a></td><td class="center " data-stat="game_result" csk="11">W (+11)</td><td class="right " data-stat="gs">1</td><td class="right " data-stat="mp" csk="1860">31:00</td><td class="right " data-stat="fg">9</td><td class="right " data-stat="fga">17</td><td class="right " data-stat="fg_pct">.529</td><td class="right " data-stat="fg3">4</td><td class="right " data-stat="fg3a">10</td><td class="right " data-stat="fg3_pct">.400</td><td class="right " data-stat="ft">4</td><td class="right " data-stat="fta">4</td><td class="right " data-stat="ft_pct">1.000</td><td class="right " data-stat="orb">1</td><td class="right " data-stat="drb">2</td><td class="right " data-stat="trb">3</td><td class="right " data-stat="ast">11</td><td class="right " data-stat="stl">3</td><td class="right iz" data-stat="blk">0</td><td class="right " data-stat="tov">1</td><td class="right " data-stat="pf">5</td><td class="right " data-stat="pts">26</td><td class="right " data-stat="game_score">26.7</td><td class="right " data-stat="plus_minus">+32</td></tr>
+<tr id="pgl_basic.698" data-row="3"><th scope="row" class="right " data-stat="ranker" csk="4">4</th><td class="right endpoint tooltip" data-endpoint="/players/pgl_cum_stats.cgi?player=curryst01&amp;year=2020&amp;date_game=2019-10-30&amp;is_playoff_game=N" data-stat="game_season"><strong>4</strong></td><td class="left " data-stat="date_game"><a href="/boxscores/201910300GSW.html">2019-10-30</a></td><td class="right " data-stat="age">31-230</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/PHO/2020.html">PHO</a></td><td class="center " data-stat="game_result" csk="-11">L (-11)</td><td class="right " data-stat="gs">1</td><td class="right " data-stat="mp" csk="1269">21:09</td><td class="right " data-stat="fg">3</td><td class="right " data-stat="fga">11</td><td class="right " data-stat="fg_pct">.273</td><td class="right " data-stat="fg3">1</td><td class="right " data-stat="fg3a">7</td><td class="right " data-stat="fg3_pct">.143</td><td class="right " data-stat="ft">2</td><td class="right " data-stat="fta">2</td><td class="right " data-stat="ft_pct">1.000</td><td class="right iz" data-stat="orb">0</td><td class="right " data-stat="drb">5</td><td class="right " data-stat="trb">5</td><td class="right " data-stat="ast">6</td><td class="right " data-stat="stl">1</td><td class="right " data-stat="blk">2</td><td class="right " data-stat="tov">4</td><td class="right " data-stat="pf">2</td><td class="right " data-stat="pts">9</td><td class="right " data-stat="game_score">5.8</td><td class="right " data-stat="plus_minus">-13</td></tr>
+<tr data-row="4"><th scope="row" class="right " data-stat="ranker" csk="5">5</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911010GSW.html">2019-11-01</a></td><td class="right " data-stat="age">31-232</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/SAS/2020.html">SAS</a></td><td class="center " data-stat="game_result" csk="-17">L (-17)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="5"><th scope="row" class="right " data-stat="ranker" csk="6">6</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911020GSW.html">2019-11-02</a></td><td class="right " data-stat="age">31-233</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/CHO/2020.html">CHO</a></td><td class="center " data-stat="game_result" csk="-6">L (-6)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="6"><th scope="row" class="right " data-stat="ranker" csk="7">7</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911040GSW.html">2019-11-04</a></td><td class="right " data-stat="age">31-235</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/POR/2020.html">POR</a></td><td class="center " data-stat="game_result" csk="9">W (+9)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="7"><th scope="row" class="right " data-stat="ranker" csk="8">8</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911060HOU.html">2019-11-06</a></td><td class="right " data-stat="age">31-237</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/HOU/2020.html">HOU</a></td><td class="center " data-stat="game_result" csk="-17">L (-17)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="8"><th scope="row" class="right " data-stat="ranker" csk="9">9</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911080MIN.html">2019-11-08</a></td><td class="right " data-stat="age">31-239</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/MIN/2020.html">MIN</a></td><td class="center " data-stat="game_result" csk="-6">L (-6)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="9"><th scope="row" class="right " data-stat="ranker" csk="10">10</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911090OKC.html">2019-11-09</a></td><td class="right " data-stat="age">31-240</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/OKC/2020.html">OKC</a></td><td class="center " data-stat="game_result" csk="-6">L (-6)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="10"><th scope="row" class="right " data-stat="ranker" csk="11">11</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911110GSW.html">2019-11-11</a></td><td class="right " data-stat="age">31-242</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/UTA/2020.html">UTA</a></td><td class="center " data-stat="game_result" csk="-14">L (-14)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="11"><th scope="row" class="right " data-stat="ranker" csk="12">12</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911130LAL.html">2019-11-13</a></td><td class="right " data-stat="age">31-244</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/LAL/2020.html">LAL</a></td><td class="center " data-stat="game_result" csk="-26">L (-26)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="12"><th scope="row" class="right " data-stat="ranker" csk="13">13</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911150GSW.html">2019-11-15</a></td><td class="right " data-stat="age">31-246</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/BOS/2020.html">BOS</a></td><td class="center " data-stat="game_result" csk="-5">L (-5)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="13"><th scope="row" class="right " data-stat="ranker" csk="14">14</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911170NOP.html">2019-11-17</a></td><td class="right " data-stat="age">31-248</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/NOP/2020.html">NOP</a></td><td class="center " data-stat="game_result" csk="-8">L (-8)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="14"><th scope="row" class="right " data-stat="ranker" csk="15">15</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911190MEM.html">2019-11-19</a></td><td class="right " data-stat="age">31-250</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/MEM/2020.html">MEM</a></td><td class="center " data-stat="game_result" csk="19">W (+19)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="15"><th scope="row" class="right " data-stat="ranker" csk="16">16</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911200DAL.html">2019-11-20</a></td><td class="right " data-stat="age">31-251</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/DAL/2020.html">DAL</a></td><td class="center " data-stat="game_result" csk="-48">L (-48)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="16"><th scope="row" class="right " data-stat="ranker" csk="17">17</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911220UTA.html">2019-11-22</a></td><td class="right " data-stat="age">31-253</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/UTA/2020.html">UTA</a></td><td class="center " data-stat="game_result" csk="-4">L (-4)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="17"><th scope="row" class="right " data-stat="ranker" csk="18">18</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911250GSW.html">2019-11-25</a></td><td class="right " data-stat="age">31-256</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/OKC/2020.html">OKC</a></td><td class="center " data-stat="game_result" csk="-3">L (-3)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="18"><th scope="row" class="right " data-stat="ranker" csk="19">19</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911270GSW.html">2019-11-27</a></td><td class="right " data-stat="age">31-258</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/CHI/2020.html">CHI</a></td><td class="center " data-stat="game_result" csk="14">W (+14)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="19"><th scope="row" class="right " data-stat="ranker" csk="20">20</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201911290MIA.html">2019-11-29</a></td><td class="right " data-stat="age">31-260</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/MIA/2020.html">MIA</a></td><td class="center " data-stat="game_result" csk="-17">L (-17)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+
+      
+      <tr class="thead" data-row="20">
+         <th aria-label="Rk" data-stat="ranker" class="ranker sort_default_asc show_partial_when_sorting center" data-tip="Rank">Rk</th>
+         <th aria-label="G" data-stat="game_season" class=" center" data-tip="Season Game">G</th>
+         <th aria-label="Date" data-stat="date_game" class=" sort_default_asc center">Date</th>
+         <th aria-label="Age" data-stat="age" class=" sort_default_asc center" data-tip="Player's age on February 1 of the season">Age</th>
+         <th aria-label="Tm" data-stat="team_id" class=" sort_default_asc center" data-tip="Team">Tm</th>
+         <th aria-label="&nbsp;" data-stat="game_location" class=" center">&nbsp;</th>
+         <th aria-label="Opp" data-stat="opp_id" class=" sort_default_asc center" data-tip="Opponent">Opp</th>
+         <th aria-label="&nbsp;" data-stat="game_result" class=" center">&nbsp;</th>
+         <th aria-label="Games Started" data-stat="gs" class=" center" data-tip="Games Started">GS</th>
+         <th aria-label="Minutes Played" data-stat="mp" class=" center" data-tip="Minutes Played">MP</th>
+         <th aria-label="Field Goals" data-stat="fg" class=" center" data-tip="Field Goals">FG</th>
+         <th aria-label="FGA" data-stat="fga" class=" center" data-tip="Field Goal Attempts">FGA</th>
+         <th aria-label="Field Goal Percentage" data-stat="fg_pct" class=" center" data-tip="Field Goal Percentage">FG%</th>
+         <th aria-label="3-Point Field Goals" data-stat="fg3" class=" center" data-tip="3-Point Field Goals">3P</th>
+         <th aria-label="3-Point Field Goal Attempts" data-stat="fg3a" class=" center" data-tip="3-Point Field Goal Attempts">3PA</th>
+         <th aria-label="3-Point Field Goal Percentage" data-stat="fg3_pct" class=" center" data-tip="3-Point Field Goal Percentage">3P%</th>
+         <th aria-label="Free Throws" data-stat="ft" class=" center" data-tip="Free Throws">FT</th>
+         <th aria-label="Free Throw Attempts" data-stat="fta" class=" center" data-tip="Free Throw Attempts">FTA</th>
+         <th aria-label="Free Throw Percentage" data-stat="ft_pct" class=" center" data-tip="Free Throw Percentage">FT%</th>
+         <th aria-label="Offensive Rebounds" data-stat="orb" class=" center" data-tip="Offensive Rebounds">ORB</th>
+         <th aria-label="Defensive Rebounds" data-stat="drb" class=" center" data-tip="Defensive Rebounds">DRB</th>
+         <th aria-label="Total Rebounds" data-stat="trb" class=" center" data-tip="Total Rebounds">TRB</th>
+         <th aria-label="Assists" data-stat="ast" class=" center" data-tip="Assists">AST</th>
+         <th aria-label="Steals" data-stat="stl" class=" center" data-tip="Steals">STL</th>
+         <th aria-label="Blocks" data-stat="blk" class=" center" data-tip="Blocks">BLK</th>
+         <th aria-label="Turnovers" data-stat="tov" class=" center" data-tip="Turnovers">TOV</th>
+         <th aria-label="Personal Fouls" data-stat="pf" class=" center" data-tip="Personal Fouls">PF</th>
+         <th aria-label="Points" data-stat="pts" class=" center" data-tip="Points">PTS</th>
+         <th aria-label="GmSc" data-stat="game_score" class=" center" data-tip="Game Score">GmSc</th>
+         <th aria-label="Plus/Minus" data-stat="plus_minus" class=" right" data-tip="Plus/Minus">+/-</th>
+      </tr>
+      <tr data-row="21"><th scope="row" class="right " data-stat="ranker" csk="21">21</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912010ORL.html">2019-12-01</a></td><td class="right " data-stat="age">31-262</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/ORL/2020.html">ORL</a></td><td class="center " data-stat="game_result" csk="-4">L (-4)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="22"><th scope="row" class="right " data-stat="ranker" csk="22">22</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912020ATL.html">2019-12-02</a></td><td class="right " data-stat="age">31-263</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/ATL/2020.html">ATL</a></td><td class="center " data-stat="game_result" csk="-25">L (-25)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="23"><th scope="row" class="right " data-stat="ranker" csk="23">23</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912040CHO.html">2019-12-04</a></td><td class="right " data-stat="age">31-265</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/CHO/2020.html">CHO</a></td><td class="center " data-stat="game_result" csk="-15">L (-15)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="24"><th scope="row" class="right " data-stat="ranker" csk="24">24</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912060CHI.html">2019-12-06</a></td><td class="right " data-stat="age">31-267</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/CHI/2020.html">CHI</a></td><td class="center " data-stat="game_result" csk="2">W (+2)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="25"><th scope="row" class="right " data-stat="ranker" csk="25">25</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912090GSW.html">2019-12-09</a></td><td class="right " data-stat="age">31-270</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/MEM/2020.html">MEM</a></td><td class="center " data-stat="game_result" csk="-8">L (-8)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="26"><th scope="row" class="right " data-stat="ranker" csk="26">26</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912110GSW.html">2019-12-11</a></td><td class="right " data-stat="age">31-272</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/NYK/2020.html">NYK</a></td><td class="center " data-stat="game_result" csk="-2">L (-2)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="27"><th scope="row" class="right " data-stat="ranker" csk="27">27</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912130UTA.html">2019-12-13</a></td><td class="right " data-stat="age">31-274</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/UTA/2020.html">UTA</a></td><td class="center " data-stat="game_result" csk="-8">L (-8)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="28"><th scope="row" class="right " data-stat="ranker" csk="28">28</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912150GSW.html">2019-12-15</a></td><td class="right " data-stat="age">31-276</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/SAC/2020.html">SAC</a></td><td class="center " data-stat="game_result" csk="-21">L (-21)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="29"><th scope="row" class="right " data-stat="ranker" csk="29">29</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912180POR.html">2019-12-18</a></td><td class="right " data-stat="age">31-279</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/POR/2020.html">POR</a></td><td class="center " data-stat="game_result" csk="-10">L (-10)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="30"><th scope="row" class="right " data-stat="ranker" csk="30">30</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912200GSW.html">2019-12-20</a></td><td class="right " data-stat="age">31-281</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/NOP/2020.html">NOP</a></td><td class="center " data-stat="game_result" csk="4">W (+4)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="31"><th scope="row" class="right " data-stat="ranker" csk="31">31</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912230GSW.html">2019-12-23</a></td><td class="right " data-stat="age">31-284</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/MIN/2020.html">MIN</a></td><td class="center " data-stat="game_result" csk="9">W (+9)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="32"><th scope="row" class="right " data-stat="ranker" csk="32">32</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912250GSW.html">2019-12-25</a></td><td class="right " data-stat="age">31-286</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/HOU/2020.html">HOU</a></td><td class="center " data-stat="game_result" csk="12">W (+12)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="33"><th scope="row" class="right " data-stat="ranker" csk="33">33</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912270GSW.html">2019-12-27</a></td><td class="right " data-stat="age">31-288</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/PHO/2020.html">PHO</a></td><td class="center " data-stat="game_result" csk="9">W (+9)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="34"><th scope="row" class="right " data-stat="ranker" csk="34">34</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912280GSW.html">2019-12-28</a></td><td class="right " data-stat="age">31-289</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/DAL/2020.html">DAL</a></td><td class="center " data-stat="game_result" csk="-20">L (-20)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="35"><th scope="row" class="right " data-stat="ranker" csk="35">35</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/201912310SAS.html">2019-12-31</a></td><td class="right " data-stat="age">31-292</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/SAS/2020.html">SAS</a></td><td class="center " data-stat="game_result" csk="-4">L (-4)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="36"><th scope="row" class="right " data-stat="ranker" csk="36">36</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001020MIN.html">2020-01-02</a></td><td class="right " data-stat="age">31-294</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/MIN/2020.html">MIN</a></td><td class="center " data-stat="game_result" csk="-15">L (-15)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="37"><th scope="row" class="right " data-stat="ranker" csk="37">37</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001040GSW.html">2020-01-04</a></td><td class="right " data-stat="age">31-296</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/DET/2020.html">DET</a></td><td class="center " data-stat="game_result" csk="-7">L (-7)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="38"><th scope="row" class="right " data-stat="ranker" csk="38">38</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001060SAC.html">2020-01-06</a></td><td class="right " data-stat="age">31-298</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/SAC/2020.html">SAC</a></td><td class="center " data-stat="game_result" csk="-13">L (-13)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="39"><th scope="row" class="right " data-stat="ranker" csk="39">39</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001080GSW.html">2020-01-08</a></td><td class="right " data-stat="age">31-300</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/MIL/2020.html">MIL</a></td><td class="center " data-stat="game_result" csk="-9">L (-9)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="40"><th scope="row" class="right " data-stat="ranker" csk="40">40</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001100LAC.html">2020-01-10</a></td><td class="right " data-stat="age">31-302</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/LAC/2020.html">LAC</a></td><td class="center " data-stat="game_result" csk="-9">L (-9)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+
+      
+      <tr class="thead" data-row="41">
+         <th aria-label="Rk" data-stat="ranker" class="ranker sort_default_asc show_partial_when_sorting center" data-tip="Rank">Rk</th>
+         <th aria-label="G" data-stat="game_season" class=" center" data-tip="Season Game">G</th>
+         <th aria-label="Date" data-stat="date_game" class=" sort_default_asc center">Date</th>
+         <th aria-label="Age" data-stat="age" class=" sort_default_asc center" data-tip="Player's age on February 1 of the season">Age</th>
+         <th aria-label="Tm" data-stat="team_id" class=" sort_default_asc center" data-tip="Team">Tm</th>
+         <th aria-label="&nbsp;" data-stat="game_location" class=" center">&nbsp;</th>
+         <th aria-label="Opp" data-stat="opp_id" class=" sort_default_asc center" data-tip="Opponent">Opp</th>
+         <th aria-label="&nbsp;" data-stat="game_result" class=" center">&nbsp;</th>
+         <th aria-label="Games Started" data-stat="gs" class=" center" data-tip="Games Started">GS</th>
+         <th aria-label="Minutes Played" data-stat="mp" class=" center" data-tip="Minutes Played">MP</th>
+         <th aria-label="Field Goals" data-stat="fg" class=" center" data-tip="Field Goals">FG</th>
+         <th aria-label="FGA" data-stat="fga" class=" center" data-tip="Field Goal Attempts">FGA</th>
+         <th aria-label="Field Goal Percentage" data-stat="fg_pct" class=" center" data-tip="Field Goal Percentage">FG%</th>
+         <th aria-label="3-Point Field Goals" data-stat="fg3" class=" center" data-tip="3-Point Field Goals">3P</th>
+         <th aria-label="3-Point Field Goal Attempts" data-stat="fg3a" class=" center" data-tip="3-Point Field Goal Attempts">3PA</th>
+         <th aria-label="3-Point Field Goal Percentage" data-stat="fg3_pct" class=" center" data-tip="3-Point Field Goal Percentage">3P%</th>
+         <th aria-label="Free Throws" data-stat="ft" class=" center" data-tip="Free Throws">FT</th>
+         <th aria-label="Free Throw Attempts" data-stat="fta" class=" center" data-tip="Free Throw Attempts">FTA</th>
+         <th aria-label="Free Throw Percentage" data-stat="ft_pct" class=" center" data-tip="Free Throw Percentage">FT%</th>
+         <th aria-label="Offensive Rebounds" data-stat="orb" class=" center" data-tip="Offensive Rebounds">ORB</th>
+         <th aria-label="Defensive Rebounds" data-stat="drb" class=" center" data-tip="Defensive Rebounds">DRB</th>
+         <th aria-label="Total Rebounds" data-stat="trb" class=" center" data-tip="Total Rebounds">TRB</th>
+         <th aria-label="Assists" data-stat="ast" class=" center" data-tip="Assists">AST</th>
+         <th aria-label="Steals" data-stat="stl" class=" center" data-tip="Steals">STL</th>
+         <th aria-label="Blocks" data-stat="blk" class=" center" data-tip="Blocks">BLK</th>
+         <th aria-label="Turnovers" data-stat="tov" class=" center" data-tip="Turnovers">TOV</th>
+         <th aria-label="Personal Fouls" data-stat="pf" class=" center" data-tip="Personal Fouls">PF</th>
+         <th aria-label="Points" data-stat="pts" class=" center" data-tip="Points">PTS</th>
+         <th aria-label="GmSc" data-stat="game_score" class=" center" data-tip="Game Score">GmSc</th>
+         <th aria-label="Plus/Minus" data-stat="plus_minus" class=" right" data-tip="Plus/Minus">+/-</th>
+      </tr>
+      <tr data-row="42"><th scope="row" class="right " data-stat="ranker" csk="41">41</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001120MEM.html">2020-01-12</a></td><td class="right " data-stat="age">31-304</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/MEM/2020.html">MEM</a></td><td class="center " data-stat="game_result" csk="-20">L (-20)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="43"><th scope="row" class="right " data-stat="ranker" csk="42">42</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001140GSW.html">2020-01-14</a></td><td class="right " data-stat="age">31-306</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/DAL/2020.html">DAL</a></td><td class="center " data-stat="game_result" csk="-27">L (-27)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="44"><th scope="row" class="right " data-stat="ranker" csk="43">43</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001160GSW.html">2020-01-16</a></td><td class="right " data-stat="age">31-308</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/DEN/2020.html">DEN</a></td><td class="center " data-stat="game_result" csk="-3">L (-3)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="45"><th scope="row" class="right " data-stat="ranker" csk="44">44</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001180GSW.html">2020-01-18</a></td><td class="right " data-stat="age">31-310</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/ORL/2020.html">ORL</a></td><td class="center " data-stat="game_result" csk="14">W (+14)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="46"><th scope="row" class="right " data-stat="ranker" csk="45">45</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001200POR.html">2020-01-20</a></td><td class="right " data-stat="age">31-312</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/POR/2020.html">POR</a></td><td class="center " data-stat="game_result" csk="-5">L (-5)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="47"><th scope="row" class="right " data-stat="ranker" csk="46">46</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001220GSW.html">2020-01-22</a></td><td class="right " data-stat="age">31-314</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/UTA/2020.html">UTA</a></td><td class="center " data-stat="game_result" csk="-33">L (-33)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="48"><th scope="row" class="right " data-stat="ranker" csk="47">47</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001240GSW.html">2020-01-24</a></td><td class="right " data-stat="age">31-316</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/IND/2020.html">IND</a></td><td class="center " data-stat="game_result" csk="-11">L (-11)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="49"><th scope="row" class="right " data-stat="ranker" csk="48">48</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001280PHI.html">2020-01-28</a></td><td class="right " data-stat="age">31-320</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/PHI/2020.html">PHI</a></td><td class="center " data-stat="game_result" csk="-11">L (-11)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="50"><th scope="row" class="right " data-stat="ranker" csk="49">49</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202001300BOS.html">2020-01-30</a></td><td class="right " data-stat="age">31-322</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/BOS/2020.html">BOS</a></td><td class="center " data-stat="game_result" csk="-15">L (-15)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="51"><th scope="row" class="right " data-stat="ranker" csk="50">50</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002010CLE.html">2020-02-01</a></td><td class="right " data-stat="age">31-324</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/CLE/2020.html">CLE</a></td><td class="center " data-stat="game_result" csk="19">W (+19)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="52"><th scope="row" class="right " data-stat="ranker" csk="51">51</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002030WAS.html">2020-02-03</a></td><td class="right " data-stat="age">31-326</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/WAS/2020.html">WAS</a></td><td class="center " data-stat="game_result" csk="8">W (+8)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="53"><th scope="row" class="right " data-stat="ranker" csk="52">52</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002050BRK.html">2020-02-05</a></td><td class="right " data-stat="age">31-328</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/BRK/2020.html">BRK</a></td><td class="center " data-stat="game_result" csk="-41">L (-41)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="54"><th scope="row" class="right " data-stat="ranker" csk="53">53</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002080GSW.html">2020-02-08</a></td><td class="right " data-stat="age">31-331</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/LAL/2020.html">LAL</a></td><td class="center " data-stat="game_result" csk="-5">L (-5)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="55"><th scope="row" class="right " data-stat="ranker" csk="54">54</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002100GSW.html">2020-02-10</a></td><td class="right " data-stat="age">31-333</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/MIA/2020.html">MIA</a></td><td class="center " data-stat="game_result" csk="-12">L (-12)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="56"><th scope="row" class="right " data-stat="ranker" csk="55">55</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002120PHO.html">2020-02-12</a></td><td class="right " data-stat="age">31-335</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/PHO/2020.html">PHO</a></td><td class="center " data-stat="game_result" csk="-6">L (-6)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="57"><th scope="row" class="right " data-stat="ranker" csk="56">56</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002200GSW.html">2020-02-20</a></td><td class="right " data-stat="age">31-343</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/HOU/2020.html">HOU</a></td><td class="center " data-stat="game_result" csk="-30">L (-30)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Did Not Dress</td></tr>
+<tr data-row="58"><th scope="row" class="right " data-stat="ranker" csk="57">57</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002230GSW.html">2020-02-23</a></td><td class="right " data-stat="age">31-346</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/NOP/2020.html">NOP</a></td><td class="center " data-stat="game_result" csk="-14">L (-14)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="59"><th scope="row" class="right " data-stat="ranker" csk="58">58</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002250GSW.html">2020-02-25</a></td><td class="right " data-stat="age">31-348</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/SAC/2020.html">SAC</a></td><td class="center " data-stat="game_result" csk="-18">L (-18)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="60"><th scope="row" class="right " data-stat="ranker" csk="59">59</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002270GSW.html">2020-02-27</a></td><td class="right " data-stat="age">31-350</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/LAL/2020.html">LAL</a></td><td class="center " data-stat="game_result" csk="-30">L (-30)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="61"><th scope="row" class="right " data-stat="ranker" csk="60">60</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202002290PHO.html">2020-02-29</a></td><td class="right " data-stat="age">31-352</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/PHO/2020.html">PHO</a></td><td class="center " data-stat="game_result" csk="16">W (+16)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+
+      
+      <tr class="thead" data-row="62">
+         <th aria-label="Rk" data-stat="ranker" class="ranker sort_default_asc show_partial_when_sorting center" data-tip="Rank">Rk</th>
+         <th aria-label="G" data-stat="game_season" class=" center" data-tip="Season Game">G</th>
+         <th aria-label="Date" data-stat="date_game" class=" sort_default_asc center">Date</th>
+         <th aria-label="Age" data-stat="age" class=" sort_default_asc center" data-tip="Player's age on February 1 of the season">Age</th>
+         <th aria-label="Tm" data-stat="team_id" class=" sort_default_asc center" data-tip="Team">Tm</th>
+         <th aria-label="&nbsp;" data-stat="game_location" class=" center">&nbsp;</th>
+         <th aria-label="Opp" data-stat="opp_id" class=" sort_default_asc center" data-tip="Opponent">Opp</th>
+         <th aria-label="&nbsp;" data-stat="game_result" class=" center">&nbsp;</th>
+         <th aria-label="Games Started" data-stat="gs" class=" center" data-tip="Games Started">GS</th>
+         <th aria-label="Minutes Played" data-stat="mp" class=" center" data-tip="Minutes Played">MP</th>
+         <th aria-label="Field Goals" data-stat="fg" class=" center" data-tip="Field Goals">FG</th>
+         <th aria-label="FGA" data-stat="fga" class=" center" data-tip="Field Goal Attempts">FGA</th>
+         <th aria-label="Field Goal Percentage" data-stat="fg_pct" class=" center" data-tip="Field Goal Percentage">FG%</th>
+         <th aria-label="3-Point Field Goals" data-stat="fg3" class=" center" data-tip="3-Point Field Goals">3P</th>
+         <th aria-label="3-Point Field Goal Attempts" data-stat="fg3a" class=" center" data-tip="3-Point Field Goal Attempts">3PA</th>
+         <th aria-label="3-Point Field Goal Percentage" data-stat="fg3_pct" class=" center" data-tip="3-Point Field Goal Percentage">3P%</th>
+         <th aria-label="Free Throws" data-stat="ft" class=" center" data-tip="Free Throws">FT</th>
+         <th aria-label="Free Throw Attempts" data-stat="fta" class=" center" data-tip="Free Throw Attempts">FTA</th>
+         <th aria-label="Free Throw Percentage" data-stat="ft_pct" class=" center" data-tip="Free Throw Percentage">FT%</th>
+         <th aria-label="Offensive Rebounds" data-stat="orb" class=" center" data-tip="Offensive Rebounds">ORB</th>
+         <th aria-label="Defensive Rebounds" data-stat="drb" class=" center" data-tip="Defensive Rebounds">DRB</th>
+         <th aria-label="Total Rebounds" data-stat="trb" class=" center" data-tip="Total Rebounds">TRB</th>
+         <th aria-label="Assists" data-stat="ast" class=" center" data-tip="Assists">AST</th>
+         <th aria-label="Steals" data-stat="stl" class=" center" data-tip="Steals">STL</th>
+         <th aria-label="Blocks" data-stat="blk" class=" center" data-tip="Blocks">BLK</th>
+         <th aria-label="Turnovers" data-stat="tov" class=" center" data-tip="Turnovers">TOV</th>
+         <th aria-label="Personal Fouls" data-stat="pf" class=" center" data-tip="Personal Fouls">PF</th>
+         <th aria-label="Points" data-stat="pts" class=" center" data-tip="Points">PTS</th>
+         <th aria-label="GmSc" data-stat="game_score" class=" center" data-tip="Game Score">GmSc</th>
+         <th aria-label="Plus/Minus" data-stat="plus_minus" class=" right" data-tip="Plus/Minus">+/-</th>
+      </tr>
+      <tr data-row="63"><th scope="row" class="right " data-stat="ranker" csk="61">61</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202003010GSW.html">2020-03-01</a></td><td class="right " data-stat="age">31-353</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/WAS/2020.html">WAS</a></td><td class="center " data-stat="game_result" csk="-14">L (-14)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="64"><th scope="row" class="right " data-stat="ranker" csk="62">62</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202003030DEN.html">2020-03-03</a></td><td class="right " data-stat="age">31-355</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center " data-stat="game_location">@</td><td class="left " data-stat="opp_id"><a href="/teams/DEN/2020.html">DEN</a></td><td class="center " data-stat="game_result" csk="16">W (+16)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr id="pgl_basic.699" data-row="65"><th scope="row" class="right " data-stat="ranker" csk="63">63</th><td class="right endpoint tooltip" data-endpoint="/players/pgl_cum_stats.cgi?player=curryst01&amp;year=2020&amp;date_game=2020-03-05&amp;is_playoff_game=N" data-stat="game_season"><strong>5</strong></td><td class="left " data-stat="date_game"><a href="/boxscores/202003050GSW.html">2020-03-05</a></td><td class="right " data-stat="age">31-357</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/TOR/2020.html">TOR</a></td><td class="center " data-stat="game_result" csk="-8">L (-8)</td><td class="right " data-stat="gs">1</td><td class="right " data-stat="mp" csk="1634">27:14</td><td class="right " data-stat="fg">6</td><td class="right " data-stat="fga">16</td><td class="right " data-stat="fg_pct">.375</td><td class="right " data-stat="fg3">3</td><td class="right " data-stat="fg3a">12</td><td class="right " data-stat="fg3_pct">.250</td><td class="right " data-stat="ft">8</td><td class="right " data-stat="fta">8</td><td class="right " data-stat="ft_pct">1.000</td><td class="right iz" data-stat="orb">0</td><td class="right " data-stat="drb">6</td><td class="right " data-stat="trb">6</td><td class="right " data-stat="ast">7</td><td class="right iz" data-stat="stl">0</td><td class="right iz" data-stat="blk">0</td><td class="right " data-stat="tov">1</td><td class="right " data-stat="pf">1</td><td class="right " data-stat="pts">23</td><td class="right " data-stat="game_score">19.5</td><td class="right " data-stat="plus_minus">-13</td></tr>
+<tr data-row="66"><th scope="row" class="right " data-stat="ranker" csk="64">64</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202003070GSW.html">2020-03-07</a></td><td class="right " data-stat="age">31-359</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/PHI/2020.html">PHI</a></td><td class="center " data-stat="game_result" csk="4">W (+4)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Inactive</td></tr>
+<tr data-row="67"><th scope="row" class="right " data-stat="ranker" csk="65">65</th><td class="right iz" data-stat="game_season"></td><td class="left " data-stat="date_game"><a href="/boxscores/202003100GSW.html">2020-03-10</a></td><td class="right " data-stat="age">31-362</td><td class="left " data-stat="team_id"><a href="/teams/GSW/2020.html">GSW</a></td><td class="center iz" data-stat="game_location"></td><td class="left " data-stat="opp_id"><a href="/teams/LAC/2020.html">LAC</a></td><td class="center " data-stat="game_result" csk="-24">L (-24)</td><td class="center " data-stat="reason" colspan="22" csk="-1">Did Not Dress</td></tr>
+
+</tbody></table>
+
+
+</div>
+
+
+
+</div>
+</div>
+
+            
+            
+            
+         
+      
+         
+      
+
+<!-- global.nonempty_tables_num: 2, table_count: 2 -->
+   <!-- no Local/Partials/NoteBottom.tt2 -->
+<div id="bottom_nav" class="section_wrapper">
+<div class="section_heading"><span data-no-inpage="1" class="section_anchor" id="inner_nav_bottom_link" data-label="More Curry Pages"></span><h2>More Curry Pages</h2></div>
+<div class="section_content" id="bottom_nav_container">
+
+  <p><a href="/players/c/curryst01.html"><u>Stephen Curry Overview</u></a></p>
+  <p class="listhead"><strong>Game Logs</strong></p>
+        <ul class="">
+          <li><a href="/players/c/curryst01/gamelog/2010">2009-10</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2011">2010-11</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2012">2011-12</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2013">2012-13</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2014">2013-14</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2015">2014-15</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2016">2015-16</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2017">2016-17</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2018">2017-18</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2019">2018-19</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2020">2019-20</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2021">2020-21</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2022">2021-22</a></li>
+          <li><a href="/players/c/curryst01/gamelog/2023">2022-23</a></li>
+          <li><a href="/players/c/curryst01/gamelog-playoffs/">Career Playoffs</a></li>
+        </ul><p class="listhead"><strong>Splits</strong></p>
+        <ul class="">
+          <li><a href="/players/c/curryst01/splits/2010">2009-10</a></li>
+          <li><a href="/players/c/curryst01/splits/2011">2010-11</a></li>
+          <li><a href="/players/c/curryst01/splits/2012">2011-12</a></li>
+          <li><a href="/players/c/curryst01/splits/2013">2012-13</a></li>
+          <li><a href="/players/c/curryst01/splits/2014">2013-14</a></li>
+          <li><a href="/players/c/curryst01/splits/2015">2014-15</a></li>
+          <li><a href="/players/c/curryst01/splits/2016">2015-16</a></li>
+          <li><a href="/players/c/curryst01/splits/2017">2016-17</a></li>
+          <li><a href="/players/c/curryst01/splits/2018">2017-18</a></li>
+          <li><a href="/players/c/curryst01/splits/2019">2018-19</a></li>
+          <li><a href="/players/c/curryst01/splits/2020">2019-20</a></li>
+          <li><a href="/players/c/curryst01/splits/2021">2020-21</a></li>
+          <li><a href="/players/c/curryst01/splits/2022">2021-22</a></li>
+          <li><a href="/players/c/curryst01/splits/2023">2022-23</a></li>
+          <li><a href="/players/c/curryst01/splits/">Career</a></li>
+        </ul><p class="listhead"><strong>Shooting</strong></p>
+        <ul class="">
+          <li><a href="/players/c/curryst01/shooting/2010">2009-10</a></li>
+          <li><a href="/players/c/curryst01/shooting/2011">2010-11</a></li>
+          <li><a href="/players/c/curryst01/shooting/2012">2011-12</a></li>
+          <li><a href="/players/c/curryst01/shooting/2013">2012-13</a></li>
+          <li><a href="/players/c/curryst01/shooting/2014">2013-14</a></li>
+          <li><a href="/players/c/curryst01/shooting/2015">2014-15</a></li>
+          <li><a href="/players/c/curryst01/shooting/2016">2015-16</a></li>
+          <li><a href="/players/c/curryst01/shooting/2017">2016-17</a></li>
+          <li><a href="/players/c/curryst01/shooting/2018">2017-18</a></li>
+          <li><a href="/players/c/curryst01/shooting/2019">2018-19</a></li>
+          <li><a href="/players/c/curryst01/shooting/2020">2019-20</a></li>
+          <li><a href="/players/c/curryst01/shooting/2021">2020-21</a></li>
+          <li><a href="/players/c/curryst01/shooting/2022">2021-22</a></li>
+          <li><a href="/players/c/curryst01/shooting/2023">2022-23</a></li>
+        </ul><p class="listhead"><strong>Other Stephen Curry Pages</strong></p>
+        <ul class="">
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/player-game-finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Game Finder</a></li>
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/player-streak-finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Streak Finder</a></li>
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/player-span-finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Span Finder</a></li>
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/shot_finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Shot Finder</a></li>
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/event_finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Event Finder</a></li>
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/quarter_finder.cgi?player_id=curryst01&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Quarter Finder</a></li>
+          <li><a href="/friv/teammates_and_opponents.fcgi?pid_select=Stephen Curry&amp;pid=curryst01&amp;idx=players&amp;type=t">Teammates &amp; Opponents</a></li>
+        </ul>
+        <ul class="">
+          <li><a target="_blank" rel="noopener" href="https://stathead.com/basketball/versus-finder.cgi?&amp;utm_source=bbr&amp;utm_medium=sr_xsite&amp;utm_campaign=2023_01_player_innernav_stathead&amp;__hstc=180814520.26087f4d5920b036c990db8028030e24.1688590278196.1688590278196.1688590278196.1&amp;__hssc=180814520.1.1688590278196&amp;__hsfp=3620902002">Compare Stephen Curry</a> to other players</li>
+        </ul><p class="listhead">More Stephen Curry pages at Sports Reference</p>
+        <ul class="">
+          <li><a href="https://www.basketball-reference.com/international/players/stephen-curry-1.html">International Stats at Basketball-Reference.com</a></li>
+          <li><a href="https://www.sports-reference.com/cbb/players/stephen-curry-1.html">College Basketball at Sports-Reference.com</a></li>
+        </ul></div></div>
+
+   
+
+
+
