@@ -26,6 +26,8 @@ This repository contains the code and datasets used in my project of predicting 
 
 This image shows us the distribution of points Stephen Curry has scored in a regular season game throughout the dataset (2015-2023).
 
+### Boxplots of Points Scored Against Opponents
+
 <img width="536" alt="image" src="https://github.com/aryangandhi/NBA-Player-Prediction/assets/43526001/64a52c15-45ff-428b-899c-02668f1fbded">
 
 This image shows us the spread of points Stephen Curry has scored against each opposing team throughout the dataset (2015-2023).
