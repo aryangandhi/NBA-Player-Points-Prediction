@@ -1,4 +1,4 @@
-# NBA-Player-Points-Prediction
+# NBA Player Points Prediction
 
 ## Introduction
 
