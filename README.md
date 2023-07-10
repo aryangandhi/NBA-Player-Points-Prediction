@@ -6,7 +6,7 @@ This repository contains the code and datasets used in my project of predicting 
 
 ## Project Overview
 
-1. **Data Collection:** Utilized BeautifulSoup and PlayWright to scrape data from Basketball Reference.
+1. **Data Collection:** Utilized BeautifulSoup and PlayWright to web scrape data from Basketball Reference (https://www.basketball-reference.com/).
 2. **Data Preprocessing:** Cleaned the dataset by removing irrelevant or highly correlated features to reduce multicollinearity.
 3. **Feature Engineering:** Calculated averages of various statistics over the previous three games to capture recent trends in Curry's performance.
 4. **Data Splitting:** Split the data into training, validation, and test sets following a 60/20/20 split.
